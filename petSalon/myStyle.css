@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+h2{
+    text-decoration: underline red;
+}
+footer{
+display: flex;
+justify-content: center;
+}
+.display-1{
+    color: black;
+    text-align: center;
+    background-color: #FFDB58;
+}
+.nav-link{
+    color: white;
+}
+.sub_div {
+    position: absolute;
+    bottom: 0px;
+}
+.flx-apart{
+    display: flex;
+    justify-content: space-between;
+}
+i.fa-trash-can{
+    color:red;
+}
